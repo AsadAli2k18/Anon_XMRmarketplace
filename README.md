@@ -1,13 +1,22 @@
 ## UI
 ![](unknown.png)
 
-![](unknown2.png)
-
 ![](Screenshot.png)
+
+
+![image](https://user-images.githubusercontent.com/50872157/188500210-d1b28922-6a73-4e16-bd43-945f1d0b2156.png)
 
 
 ## About
 A market inspired by the old Silk Road, decentralized and with multiple vendors. It allows anyone to set up a secure TOR marketplace, independent of other centralized services.
+
+## Install
+Download the Anon2.zip file
+install composer
+create DB name:market
+import database tables (download market.sql )
+sign up for new account, enjoy!
+
 
 ## Resources
 - [x] Two-factor authentication
